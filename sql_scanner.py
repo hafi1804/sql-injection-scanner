@@ -1,6 +1,6 @@
 import requests
 
-print("=== Mini SQL Injection Scanner v2 ===\n")
+print("=== Mini SQL Injection Vulnerability Scanner v2 ===\n")
 
 url = input("Enter URL: ")
 
